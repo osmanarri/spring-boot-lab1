@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+
+body {
+  background-color:#bfbfbf;
+}
+
+h1 {
+  color: #ff88ff;
+}
+h2 {
+  color: #d6d6d6;
+}
+
+
+
+.parent{
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	border-style: solid;
+	  
+}
+
+
+
+
